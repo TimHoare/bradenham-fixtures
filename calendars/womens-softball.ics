@@ -1,0 +1,191 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bradenham CC//Fixtures//EN
+X-WR-CALNAME:Womens Softball Fixtures 2026
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20260422T180000
+DTEND:20260422T203000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Great Ellingham
+UID:match-7380599@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T183000
+DTEND:20260427T210000
+SUMMARY:Women's Softball XI vs Womens Softball
+LOCATION:Rectory Meadow
+UID:match-7380594@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260503T120000
+DTEND:20260503T180000
+SUMMARY:Womens Softball vs Fixture Secretary XI
+LOCATION:Bradenham Green
+UID:match-7268615@play-cricket.com
+DESCRIPTION:Competition: 
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T103000
+DTEND:20260510T130000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Bradenham Green
+UID:match-7475987@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T103000
+DTEND:20260510T130000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Bradenham Green
+UID:match-7475985@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260510T103000
+DTEND:20260510T130000
+SUMMARY:Womens Softball vs Women's Softball XI
+LOCATION:Bradenham Green
+UID:match-7475988@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T180000
+DTEND:20260513T203000
+SUMMARY:Womens Softball vs Women's Softball XI
+LOCATION:Bradenham Green
+UID:match-7380591@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T103000
+DTEND:20260531T130000
+SUMMARY:Women's Softball XI vs Womens Softball
+LOCATION:Ketteringham Hall
+UID:match-7516120@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T103000
+DTEND:20260531T130000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Ketteringham Hall
+UID:match-7516123@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T103000
+DTEND:20260531T130000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Ketteringham Hall
+UID:match-7516125@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260604T180000
+DTEND:20260604T203000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Rocklands Playing Field Pavilion
+UID:match-7380609@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260612T180000
+DTEND:20260612T203000
+SUMMARY:Women's Softball XI vs Womens Softball
+LOCATION:Thetford Town Cricket Club
+UID:match-7380614@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T180000
+DTEND:20260622T203000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Bradenham Green
+UID:match-7380590@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260628T130000
+DTEND:20260628T153000
+SUMMARY:Womens Softball vs Women's Softball XI
+LOCATION:
+UID:match-7451538@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260628T130000
+DTEND:20260628T153000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:
+UID:match-7451533@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260628T130000
+DTEND:20260628T153000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:
+UID:match-7451537@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T183000
+DTEND:20260708T210000
+SUMMARY:Womens Softball vs Women's Softball XI
+LOCATION:Bradenham Green
+UID:match-7380589@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260722T180000
+DTEND:20260722T203000
+SUMMARY:Women's Softball XI vs Womens Softball
+LOCATION:
+UID:match-7380604@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260728T180000
+DTEND:20260728T203000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Bradenham Green
+UID:match-7380592@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260809T130000
+DTEND:20260809T153000
+SUMMARY:Women's Softball XI vs Womens Softball
+LOCATION:Bungay and District Sports Association
+UID:match-7476015@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260809T130000
+DTEND:20260809T153000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Bungay and District Sports Association
+UID:match-7476013@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260809T130000
+DTEND:20260809T153000
+SUMMARY:Womens Softball vs Womens Softball
+LOCATION:Bungay and District Sports Association
+UID:match-7476010@play-cricket.com
+DESCRIPTION:Competition: NCB WSL - Group C
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260812T180000
+DTEND:20260812T203000
+SUMMARY:Womens Softball vs Women's Softball XI
+LOCATION:Bradenham Green
+UID:match-7380593@play-cricket.com
+DESCRIPTION:Competition: Hundred South
+END:VEVENT
+END:VCALENDAR

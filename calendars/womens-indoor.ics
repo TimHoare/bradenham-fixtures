@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bradenham CC//Fixtures//EN
+X-WR-CALNAME:Womens Indoor Fixtures 2026
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20260330T190000
+DTEND:20260330T213000
+SUMMARY:Womens Indoor vs Fakenham Women's Softball XI
+LOCATION:UEA SportsPark
+UID:match-7631145@play-cricket.com
+DESCRIPTION:Competition: Women's Indoor Festival - 30th March 2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T190000
+DTEND:20260330T213000
+SUMMARY:Womens Indoor vs Women's Softball
+LOCATION:UEA SportsPark
+UID:match-7631149@play-cricket.com
+DESCRIPTION:Competition: Women's Indoor Festival - 30th March 2026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T190000
+DTEND:20260330T213000
+SUMMARY:Women's Indoor Softball vs Womens Indoor
+LOCATION:UEA SportsPark
+UID:match-7631144@play-cricket.com
+DESCRIPTION:Competition: Women's Indoor Festival - 30th March 2026
+END:VEVENT
+END:VCALENDAR

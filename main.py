@@ -243,7 +243,7 @@ def write_calendar(team_name, matches):
     )
 
     CALENDARS_DIR.mkdir(exist_ok=True)
-    path = CALENDARS_DIR / f"{slug}.ics"
+    path = CALENDARS_DIR / f"{slug}-v2.ics"
     path.write_text(cal)
     return path
 
@@ -258,7 +258,7 @@ def write_index_html(teams):
                 "name": name,
                 "slug": slug,
                 "count": count,
-                "file": f"calendars/{slug}.ics",
+                "file": f"calendars/{slug}-v2.ics",
             }
         )
     # Add all-teams entry
@@ -269,7 +269,7 @@ def write_index_html(teams):
             "name": f"{CLUB_NAME} All Teams",
             "slug": team_slug(f"{CLUB_NAME} All Teams"),
             "count": total,
-            "file": f"calendars/{team_slug(f'{CLUB_NAME} All Teams')}.ics",
+            "file": f"calendars/{team_slug(f'{CLUB_NAME} All Teams')}-v2.ics",
         },
     )
 

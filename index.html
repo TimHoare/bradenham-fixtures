@@ -91,7 +91,7 @@
     <div id="teams"></div>
 
     <div class="actions">
-        <button class="btn-google" id="btn-subscribe" disabled onclick="subscribe()">
+        <button class="btn-google" id="btn-subscribe" disabled onclick="handleSubscribe()">
             Subscribe in Google Calendar
         </button>
         <button class="btn-download" id="btn-download" disabled onclick="download()">
@@ -153,14 +153,35 @@
             document.getElementById("btn-download").disabled = !any;
         }
 
-        function subscribe() {
-            const selected = getSelected();
-            selected.forEach(t => {
-                const icsUrl = BASE + "/" + t.file;
-                const webcalUrl = icsUrl.replace(/^https?:/, "webcal:");
-                const googleUrl = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(webcalUrl);
-                window.open(googleUrl, "_blank");
-            });
+        let subscribeQueue = [];
+
+        function handleSubscribe() {
+            if (subscribeQueue.length > 0) {
+                // Continue adding next calendar
+                addNextCalendar();
+            } else {
+                // Start new subscription flow
+                subscribeQueue = getSelected().slice();
+                addNextCalendar();
+            }
+        }
+
+        function addNextCalendar() {
+            if (subscribeQueue.length === 0) {
+                document.getElementById("btn-subscribe").textContent = "Subscribe in Google Calendar";
+                return;
+            }
+            const t = subscribeQueue.shift();
+            const icsUrl = BASE + "/" + t.file;
+            const webcalUrl = icsUrl.replace(/^https?:/, "webcal:");
+            const googleUrl = "https://calendar.google.com/calendar/r?cid=" + encodeURIComponent(webcalUrl);
+            window.open(googleUrl, "_blank");
+            if (subscribeQueue.length > 0) {
+                const btn = document.getElementById("btn-subscribe");
+                btn.textContent = `Add next calendar (${subscribeQueue.length} remaining)`;
+            } else {
+                document.getElementById("btn-subscribe").textContent = "Subscribe in Google Calendar";
+            }
         }
 
         function download() {

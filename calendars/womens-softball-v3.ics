@@ -2,11 +2,29 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Bradenham CC//Fixtures//EN
 X-WR-CALNAME:Womens Softball Fixtures 2026
+X-WR-TIMEZONE:Europe/London
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:STANDARD
+DTSTART:19701025T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:19700329T010000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+END:DAYLIGHT
+END:VTIMEZONE
 BEGIN:VEVENT
-DTSTART:20260422T180000
-DTEND:20260422T203000
+DTSTART;TZID=Europe/London:20260422T180000
+DTEND;TZID=Europe/London:20260422T203000
 SUMMARY:Great Ellingham Womens Softball vs Bradenham Womens Softball
 LOCATION:Great Ellingham
 UID:match-7380599@play-cricket.com
@@ -15,8 +33,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.5373494;0.9735187999999998
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260427T183000
-DTEND:20260427T210000
+DTSTART;TZID=Europe/London:20260427T183000
+DTEND;TZID=Europe/London:20260427T210000
 SUMMARY:Diss Women's Softball XI vs Bradenham Womens Softball
 LOCATION:Rectory Meadow
 UID:match-7380594@play-cricket.com
@@ -25,8 +43,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.374422;1.1148631
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260503T120000
-DTEND:20260503T180000
+DTSTART;TZID=Europe/London:20260503T120000
+DTEND;TZID=Europe/London:20260503T180000
 SUMMARY:Bradenham Womens Softball vs Bradenham Fixture Secretary XI
 LOCATION:Bradenham Green
 UID:match-7268615@play-cricket.com
@@ -35,8 +53,8 @@ DESCRIPTION:https://play-cricket.com/website/results/7268615
 GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260510T103000
-DTEND:20260510T130000
+DTSTART;TZID=Europe/London:20260510T103000
+DTEND;TZID=Europe/London:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Hethersett & Tas-Valley Womens Softball
 LOCATION:Bradenham Green
 UID:match-7475987@play-cricket.com
@@ -45,8 +63,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260510T103000
-DTEND:20260510T130000
+DTSTART;TZID=Europe/London:20260510T103000
+DTEND;TZID=Europe/London:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Bungay Womens Softball
 LOCATION:Bradenham Green
 UID:match-7475985@play-cricket.com
@@ -55,8 +73,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260510T103000
-DTEND:20260510T130000
+DTSTART;TZID=Europe/London:20260510T103000
+DTEND;TZID=Europe/London:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Ketteringham Hall Women's Softball XI
 LOCATION:Bradenham Green
 UID:match-7475988@play-cricket.com
@@ -65,8 +83,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260513T180000
-DTEND:20260513T203000
+DTSTART;TZID=Europe/London:20260513T180000
+DTEND;TZID=Europe/London:20260513T203000
 SUMMARY:Bradenham Womens Softball vs Mundford Women's Softball XI
 LOCATION:Bradenham Green
 UID:match-7380591@play-cricket.com
@@ -75,8 +93,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260531T103000
-DTEND:20260531T130000
+DTSTART;TZID=Europe/London:20260531T103000
+DTEND;TZID=Europe/London:20260531T130000
 SUMMARY:Hethersett & Tas-Valley Womens Softball vs Bradenham Womens Softball
 LOCATION:Ketteringham Hall
 UID:match-7516125@play-cricket.com
@@ -85,8 +103,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.5781806;1.1906021
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260531T103000
-DTEND:20260531T130000
+DTSTART;TZID=Europe/London:20260531T103000
+DTEND;TZID=Europe/London:20260531T130000
 SUMMARY:Bradenham Womens Softball vs Bungay Womens Softball
 LOCATION:Ketteringham Hall
 UID:match-7516123@play-cricket.com
@@ -95,8 +113,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.5781806;1.1906021
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260531T103000
-DTEND:20260531T130000
+DTSTART;TZID=Europe/London:20260531T103000
+DTEND;TZID=Europe/London:20260531T130000
 SUMMARY:Ketteringham Hall Women's Softball XI vs Bradenham Womens Softball
 LOCATION:Ketteringham Hall
 UID:match-7516120@play-cricket.com
@@ -105,8 +123,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.5781806;1.1906021
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260604T180000
-DTEND:20260604T203000
+DTSTART;TZID=Europe/London:20260604T180000
+DTEND;TZID=Europe/London:20260604T203000
 SUMMARY:Rocklands Womens Softball vs Bradenham Womens Softball
 LOCATION:Rocklands Playing Field Pavilion
 UID:match-7380609@play-cricket.com
@@ -115,8 +133,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.5344744;0.9378519999999998
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260612T180000
-DTEND:20260612T203000
+DTSTART;TZID=Europe/London:20260612T180000
+DTEND;TZID=Europe/London:20260612T203000
 SUMMARY:Thetford Town Women's Softball XI vs Bradenham Womens Softball
 LOCATION:Thetford Town Cricket Club
 UID:match-7380614@play-cricket.com
@@ -125,8 +143,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.42457580000001;0.7413723999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260622T180000
-DTEND:20260622T203000
+DTSTART;TZID=Europe/London:20260622T180000
+DTEND;TZID=Europe/London:20260622T203000
 SUMMARY:Bradenham Womens Softball vs Great Ellingham Womens Softball
 LOCATION:Bradenham Green
 UID:match-7380590@play-cricket.com
@@ -135,8 +153,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260628T130000
-DTEND:20260628T153000
+DTSTART;TZID=Europe/London:20260628T130000
+DTEND;TZID=Europe/London:20260628T153000
 SUMMARY:Bradenham Womens Softball vs Ketteringham Hall Women's Softball XI
 LOCATION:UEA SportsPark
 UID:match-7451538@play-cricket.com
@@ -145,8 +163,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.6245439;1.2409256
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260628T130000
-DTEND:20260628T153000
+DTSTART;TZID=Europe/London:20260628T130000
+DTEND;TZID=Europe/London:20260628T153000
 SUMMARY:Hethersett & Tas-Valley Womens Softball vs Bradenham Womens Softball
 LOCATION:Ketteringham Hall
 UID:match-7451533@play-cricket.com
@@ -155,8 +173,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.5781806;1.1906021
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260628T130000
-DTEND:20260628T153000
+DTSTART;TZID=Europe/London:20260628T130000
+DTEND;TZID=Europe/London:20260628T153000
 SUMMARY:Bungay Womens Softball vs Bradenham Womens Softball
 LOCATION:Bungay and District Sports Association
 UID:match-7451537@play-cricket.com
@@ -165,8 +183,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.4617818;1.4527957
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260708T183000
-DTEND:20260708T210000
+DTSTART;TZID=Europe/London:20260708T183000
+DTEND;TZID=Europe/London:20260708T210000
 SUMMARY:Bradenham Womens Softball vs Diss Women's Softball XI
 LOCATION:Bradenham Green
 UID:match-7380589@play-cricket.com
@@ -175,8 +193,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260722T180000
-DTEND:20260722T203000
+DTSTART;TZID=Europe/London:20260722T180000
+DTEND;TZID=Europe/London:20260722T203000
 SUMMARY:Mundford Women's Softball XI vs Bradenham Womens Softball
 LOCATION:Mundford CC
 UID:match-7380604@play-cricket.com
@@ -185,8 +203,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.5108391;0.6528996000000001
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260728T180000
-DTEND:20260728T203000
+DTSTART;TZID=Europe/London:20260728T180000
+DTEND;TZID=Europe/London:20260728T203000
 SUMMARY:Bradenham Womens Softball vs Rocklands Womens Softball
 LOCATION:Bradenham Green
 UID:match-7380592@play-cricket.com
@@ -195,8 +213,8 @@ DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results
 GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260809T130000
-DTEND:20260809T153000
+DTSTART;TZID=Europe/London:20260809T130000
+DTEND;TZID=Europe/London:20260809T153000
 SUMMARY:Ketteringham Hall Women's Softball XI vs Bradenham Womens Softball
 LOCATION:Bungay and District Sports Association
 UID:match-7476015@play-cricket.com
@@ -205,8 +223,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.4617818;1.4527957
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260809T130000
-DTEND:20260809T153000
+DTSTART;TZID=Europe/London:20260809T130000
+DTEND;TZID=Europe/London:20260809T153000
 SUMMARY:Bradenham Womens Softball vs Hethersett & Tas-Valley Womens Softball
 LOCATION:Bungay and District Sports Association
 UID:match-7476013@play-cricket.com
@@ -215,8 +233,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.4617818;1.4527957
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260809T130000
-DTEND:20260809T153000
+DTSTART;TZID=Europe/London:20260809T130000
+DTEND;TZID=Europe/London:20260809T153000
 SUMMARY:Bungay Womens Softball vs Bradenham Womens Softball
 LOCATION:Bungay and District Sports Association
 UID:match-7476010@play-cricket.com
@@ -225,8 +243,8 @@ DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/res
 GEO:52.4617818;1.4527957
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260812T180000
-DTEND:20260812T203000
+DTSTART;TZID=Europe/London:20260812T180000
+DTEND;TZID=Europe/London:20260812T203000
 SUMMARY:Bradenham Womens Softball vs Thetford Town Women's Softball XI
 LOCATION:Bradenham Green
 UID:match-7380593@play-cricket.com

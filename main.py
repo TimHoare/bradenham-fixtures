@@ -187,8 +187,8 @@ def make_ical_event(match):
             time = datetime.strptime(match_time, "%H:%M").time()
             dt = dt.replace(hour=time.hour, minute=time.minute)
             dt_end = dt + duration
-            dtstart = f"DTSTART:{dt.strftime('%Y%m%dT%H%M%S')}"
-            dtend = f"DTEND:{dt_end.strftime('%Y%m%dT%H%M%S')}"
+            dtstart = f"DTSTART;TZID=Europe/London:{dt.strftime('%Y%m%dT%H%M%S')}"
+            dtend = f"DTEND;TZID=Europe/London:{dt_end.strftime('%Y%m%dT%H%M%S')}"
         except ValueError:
             dtstart = f"DTSTART;VALUE=DATE:{dt.strftime('%Y%m%d')}"
             dtend = None
@@ -235,15 +235,33 @@ def write_calendar(team_name, matches):
             "VERSION:2.0",
             f"PRODID:-//{CLUB_NAME} CC//Fixtures//EN",
             f"X-WR-CALNAME:{team_name} Fixtures {SEASON}",
+            "X-WR-TIMEZONE:Europe/London",
             "CALSCALE:GREGORIAN",
             "METHOD:PUBLISH",
+            "BEGIN:VTIMEZONE",
+            "TZID:Europe/London",
+            "BEGIN:STANDARD",
+            "DTSTART:19701025T020000",
+            "RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10",
+            "TZOFFSETFROM:+0100",
+            "TZOFFSETTO:+0000",
+            "TZNAME:GMT",
+            "END:STANDARD",
+            "BEGIN:DAYLIGHT",
+            "DTSTART:19700329T010000",
+            "RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3",
+            "TZOFFSETFROM:+0000",
+            "TZOFFSETTO:+0100",
+            "TZNAME:BST",
+            "END:DAYLIGHT",
+            "END:VTIMEZONE",
             *events,
             "END:VCALENDAR",
         ]
     )
 
     CALENDARS_DIR.mkdir(exist_ok=True)
-    path = CALENDARS_DIR / f"{slug}-v2.ics"
+    path = CALENDARS_DIR / f"{slug}-v3.ics"
     path.write_text(cal)
     return path
 
@@ -258,7 +276,7 @@ def write_index_html(teams):
                 "name": name,
                 "slug": slug,
                 "count": count,
-                "file": f"calendars/{slug}-v2.ics",
+                "file": f"calendars/{slug}-v3.ics",
             }
         )
     # Add all-teams entry
@@ -269,7 +287,7 @@ def write_index_html(teams):
             "name": f"{CLUB_NAME} All Teams",
             "slug": team_slug(f"{CLUB_NAME} All Teams"),
             "count": total,
-            "file": f"calendars/{team_slug(f'{CLUB_NAME} All Teams')}-v2.ics",
+            "file": f"calendars/{team_slug(f'{CLUB_NAME} All Teams')}-v3.ics",
         },
     )
 

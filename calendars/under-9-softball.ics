@@ -8,7 +8,7 @@ BEGIN:VEVENT
 DTSTART:20260614T100000
 DTEND:20260614T123000
 SUMMARY:Denver Under 9 Softball vs Bradenham Under 9 Softball
-LOCATION:Denver Playing Field (52.5904119, 0.381147)
+LOCATION:Denver Playing Field
 UID:match-7611882@play-cricket.com
 URL:https://play-cricket.com/website/results/7611882
 DESCRIPTION:Competition: U9 Softball Group 2\nhttps://play-cricket.com/website/results/7611882
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTART:20260614T104500
 DTEND:20260614T131500
 SUMMARY:Bradenham Under 9 Softball vs Downham Stow Under 9 Softball
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7611880@play-cricket.com
 URL:https://play-cricket.com/website/results/7611880
 DESCRIPTION:Competition: U9 Softball Group 2\nhttps://play-cricket.com/website/results/7611880
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20260614T113000
 DTEND:20260614T140000
 SUMMARY:Hockwold Under 9 Softball vs Bradenham Under 9 Softball
-LOCATION:Hockwold Cricket Club (52.46356489999999, 0.5475609)
+LOCATION:Hockwold Cricket Club
 UID:match-7611886@play-cricket.com
 URL:https://play-cricket.com/website/results/7611886
 DESCRIPTION:Competition: U9 Softball Group 2\nhttps://play-cricket.com/website/results/7611886
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART:20260614T121500
 DTEND:20260614T144500
 SUMMARY:Bradenham Under 9 Softball vs Mundford Under 9 Softball
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7611881@play-cricket.com
 URL:https://play-cricket.com/website/results/7611881
 DESCRIPTION:Competition: U9 Softball Group 2\nhttps://play-cricket.com/website/results/7611881

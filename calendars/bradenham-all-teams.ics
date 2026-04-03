@@ -8,7 +8,7 @@ BEGIN:VEVENT
 DTSTART:20260330T190000
 DTEND:20260330T213000
 SUMMARY:Bradenham Womens Indoor vs Fakenham Fakenham Women's Softball XI
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7631145@play-cricket.com
 URL:https://play-cricket.com/website/results/7631145
 DESCRIPTION:Competition: Women's Indoor Festival - 30th March 2026\nhttps://play-cricket.com/website/results/7631145
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTART:20260330T190000
 DTEND:20260330T213000
 SUMMARY:Bradenham Womens Indoor vs Swardeston and Great Melton Ladies Women's Softball
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7631149@play-cricket.com
 URL:https://play-cricket.com/website/results/7631149
 DESCRIPTION:Competition: Women's Indoor Festival - 30th March 2026\nhttps://play-cricket.com/website/results/7631149
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20260330T190000
 DTEND:20260330T213000
 SUMMARY:Beccles Town Women's Indoor Softball vs Bradenham Womens Indoor
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7631144@play-cricket.com
 URL:https://play-cricket.com/website/results/7631144
 DESCRIPTION:Competition: Women's Indoor Festival - 30th March 2026\nhttps://play-cricket.com/website/results/7631144
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART:20260412T130000
 DTEND:20260412T190000
 SUMMARY:Mundford Sunday 1st XI vs Bradenham 1st XI
-LOCATION:Mundford CC (52.5108391, 0.6528996000000001)
+LOCATION:Mundford CC
 UID:match-7214800@play-cricket.com
 URL:https://play-cricket.com/website/results/7214800
 DESCRIPTION:https://play-cricket.com/website/results/7214800
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 DTSTART:20260502T130000
 DTEND:20260502T190000
 SUMMARY:Bradenham 1st XI vs Sprowston 2nd XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416088@play-cricket.com
 URL:https://play-cricket.com/website/results/7416088
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7416088
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 DTSTART:20260509T130000
 DTEND:20260509T190000
 SUMMARY:Hockwold Hockwold CC 1st.XI vs Bradenham 1st XI
-LOCATION:Hockwold Cricket Club (52.46356489999999, 0.5475609)
+LOCATION:Hockwold Cricket Club
 UID:match-7416718@play-cricket.com
 URL:https://play-cricket.com/website/results/7416718
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7416718
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DTSTART:20260516T130000
 DTEND:20260516T190000
 SUMMARY:Bradenham 1st XI vs Brooke 2nd XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416810@play-cricket.com
 URL:https://play-cricket.com/website/results/7416810
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7416810
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 DTSTART:20260523T130000
 DTEND:20260523T190000
 SUMMARY:North Runcton 2nd XI vs Bradenham 1st XI
-LOCATION:North Runcton CC (52.7166049, 0.434132)
+LOCATION:North Runcton CC
 UID:match-7439694@play-cricket.com
 URL:https://play-cricket.com/website/results/7439694
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7439694
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 DTSTART:20260530T130000
 DTEND:20260530T190000
 SUMMARY:Bradenham 1st XI vs Acle 2nd XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7439688@play-cricket.com
 URL:https://play-cricket.com/website/results/7439688
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7439688
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 DTSTART:20260602T180000
 DTEND:20260603T000000
 SUMMARY:Bradenham 1st XI vs Dereham 1st XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7565977@play-cricket.com
 URL:https://play-cricket.com/website/results/7565977
 DESCRIPTION:Competition: Bradley Cup\nhttps://play-cricket.com/website/results/7565977
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 DTSTART:20260606T130000
 DTEND:20260606T190000
 SUMMARY:Bradenham 1st XI vs Ashmanhaugh and Barton Wanderers 2nd XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7440034@play-cricket.com
 URL:https://play-cricket.com/website/results/7440034
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7440034
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 DTSTART:20260613T130000
 DTEND:20260613T190000
 SUMMARY:Downham Stow 3rd XI vs Bradenham 1st XI
-LOCATION:The Memorial Ground (52.59778600000001, 1.1738879)
+LOCATION:The Memorial Ground
 UID:match-7440103@play-cricket.com
 URL:https://play-cricket.com/website/results/7440103
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7440103
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 DTSTART:20260620T130000
 DTEND:20260620T190000
 SUMMARY:Bradenham 1st XI vs Martham 1st XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7440104@play-cricket.com
 URL:https://play-cricket.com/website/results/7440104
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7440104
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DTSTART:20260627T130000
 DTEND:20260627T190000
 SUMMARY:Swaffham 1st XI vs Bradenham 1st XI
-LOCATION:Shoemakers Lane (52.6441427, 0.6819643999999999)
+LOCATION:Shoemakers Lane
 UID:match-7440111@play-cricket.com
 URL:https://play-cricket.com/website/results/7440111
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7440111
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 DTSTART:20260704T130000
 DTEND:20260704T190000
 SUMMARY:Sprowston 2nd XI vs Bradenham 1st XI
-LOCATION:Sprowston Cricket Club (52.6621964, 1.3195339)
+LOCATION:Sprowston Cricket Club
 UID:match-7450910@play-cricket.com
 URL:https://play-cricket.com/website/results/7450910
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7450910
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 DTSTART:20260711T130000
 DTEND:20260711T190000
 SUMMARY:Bradenham 1st XI vs Hockwold Hockwold CC 1st.XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7450937@play-cricket.com
 URL:https://play-cricket.com/website/results/7450937
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7450937
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 DTSTART:20260718T130000
 DTEND:20260718T190000
 SUMMARY:Brooke 2nd XI vs Bradenham 1st XI
-LOCATION:Brooke House Park (52.539091, 1.371312)
+LOCATION:Brooke House Park
 UID:match-7451014@play-cricket.com
 URL:https://play-cricket.com/website/results/7451014
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7451014
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 DTSTART:20260725T130000
 DTEND:20260725T190000
 SUMMARY:Bradenham 1st XI vs Downham Stow 3rd XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7451028@play-cricket.com
 URL:https://play-cricket.com/website/results/7451028
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7451028
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 DTSTART:20260801T130000
 DTEND:20260801T190000
 SUMMARY:Ashmanhaugh and Barton Wanderers 2nd XI vs Bradenham 1st XI
-LOCATION:Barton Turf (52.747977, 1.484415)
+LOCATION:Barton Turf
 UID:match-7452693@play-cricket.com
 URL:https://play-cricket.com/website/results/7452693
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7452693
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 DTSTART:20260806T120000
 DTEND:20260806T180000
 SUMMARY:Bradenham 1st XI vs Roving Reporters Tour XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7393180@play-cricket.com
 URL:https://play-cricket.com/website/results/7393180
 DESCRIPTION:https://play-cricket.com/website/results/7393180
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 DTSTART:20260808T130000
 DTEND:20260808T190000
 SUMMARY:Bradenham 1st XI vs North Runcton 2nd XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7452700@play-cricket.com
 URL:https://play-cricket.com/website/results/7452700
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7452700
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 DTSTART:20260815T130000
 DTEND:20260815T190000
 SUMMARY:Acle 2nd XI vs Bradenham 1st XI
-LOCATION:Acle Cricket Club (52.642245, 1.5488883)
+LOCATION:Acle Cricket Club
 UID:match-7452717@play-cricket.com
 URL:https://play-cricket.com/website/results/7452717
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7452717
@@ -237,7 +237,7 @@ BEGIN:VEVENT
 DTSTART:20260829T130000
 DTEND:20260829T190000
 SUMMARY:Bradenham 1st XI vs Swaffham 1st XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7452958@play-cricket.com
 URL:https://play-cricket.com/website/results/7452958
 DESCRIPTION:Competition: Division Three\nhttps://play-cricket.com/website/results/7452958
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 DTSTART:20260422T180000
 DTEND:20260422T203000
 SUMMARY:Great Ellingham Womens Softball vs Bradenham Womens Softball
-LOCATION:Great Ellingham (52.5373494, 0.9735187999999998)
+LOCATION:Great Ellingham
 UID:match-7380599@play-cricket.com
 URL:https://play-cricket.com/website/results/7380599
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380599
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 DTSTART:20260427T183000
 DTEND:20260427T210000
 SUMMARY:Diss Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Rectory Meadow (52.374422, 1.1148631)
+LOCATION:Rectory Meadow
 UID:match-7380594@play-cricket.com
 URL:https://play-cricket.com/website/results/7380594
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380594
@@ -267,7 +267,7 @@ BEGIN:VEVENT
 DTSTART:20260503T120000
 DTEND:20260503T180000
 SUMMARY:Bradenham Womens Softball vs Bradenham Fixture Secretary XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7268615@play-cricket.com
 URL:https://play-cricket.com/website/results/7268615
 DESCRIPTION:https://play-cricket.com/website/results/7268615
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 DTSTART:20260510T103000
 DTEND:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Hethersett & Tas-Valley Womens Softball
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7475987@play-cricket.com
 URL:https://play-cricket.com/website/results/7475987
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7475987
@@ -287,7 +287,7 @@ BEGIN:VEVENT
 DTSTART:20260510T103000
 DTEND:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Bungay Womens Softball
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7475985@play-cricket.com
 URL:https://play-cricket.com/website/results/7475985
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7475985
@@ -297,7 +297,7 @@ BEGIN:VEVENT
 DTSTART:20260510T103000
 DTEND:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Ketteringham Hall Women's Softball XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7475988@play-cricket.com
 URL:https://play-cricket.com/website/results/7475988
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7475988
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
 SUMMARY:Bradenham Womens Softball vs Mundford Women's Softball XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380591@play-cricket.com
 URL:https://play-cricket.com/website/results/7380591
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380591
@@ -317,7 +317,7 @@ BEGIN:VEVENT
 DTSTART:20260531T103000
 DTEND:20260531T130000
 SUMMARY:Ketteringham Hall Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Ketteringham Hall (52.5781806, 1.1906021)
+LOCATION:Ketteringham Hall
 UID:match-7516120@play-cricket.com
 URL:https://play-cricket.com/website/results/7516120
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7516120
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 DTSTART:20260531T103000
 DTEND:20260531T130000
 SUMMARY:Bradenham Womens Softball vs Bungay Womens Softball
-LOCATION:Ketteringham Hall (52.5781806, 1.1906021)
+LOCATION:Ketteringham Hall
 UID:match-7516123@play-cricket.com
 URL:https://play-cricket.com/website/results/7516123
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7516123
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 DTSTART:20260531T103000
 DTEND:20260531T130000
 SUMMARY:Hethersett & Tas-Valley Womens Softball vs Bradenham Womens Softball
-LOCATION:Ketteringham Hall (52.5781806, 1.1906021)
+LOCATION:Ketteringham Hall
 UID:match-7516125@play-cricket.com
 URL:https://play-cricket.com/website/results/7516125
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7516125
@@ -347,7 +347,7 @@ BEGIN:VEVENT
 DTSTART:20260604T180000
 DTEND:20260604T203000
 SUMMARY:Rocklands Womens Softball vs Bradenham Womens Softball
-LOCATION:Rocklands Playing Field Pavilion (52.5344744, 0.9378519999999998)
+LOCATION:Rocklands Playing Field Pavilion
 UID:match-7380609@play-cricket.com
 URL:https://play-cricket.com/website/results/7380609
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380609
@@ -357,7 +357,7 @@ BEGIN:VEVENT
 DTSTART:20260612T180000
 DTEND:20260612T203000
 SUMMARY:Thetford Town Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Thetford Town Cricket Club (52.42457580000001, 0.7413723999999999)
+LOCATION:Thetford Town Cricket Club
 UID:match-7380614@play-cricket.com
 URL:https://play-cricket.com/website/results/7380614
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380614
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 DTSTART:20260622T180000
 DTEND:20260622T203000
 SUMMARY:Bradenham Womens Softball vs Great Ellingham Womens Softball
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380590@play-cricket.com
 URL:https://play-cricket.com/website/results/7380590
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380590
@@ -377,7 +377,7 @@ BEGIN:VEVENT
 DTSTART:20260628T130000
 DTEND:20260628T153000
 SUMMARY:Bradenham Womens Softball vs Ketteringham Hall Women's Softball XI
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7451538@play-cricket.com
 URL:https://play-cricket.com/website/results/7451538
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7451538
@@ -387,7 +387,7 @@ BEGIN:VEVENT
 DTSTART:20260628T130000
 DTEND:20260628T153000
 SUMMARY:Hethersett & Tas-Valley Womens Softball vs Bradenham Womens Softball
-LOCATION:Ketteringham Hall (52.5781806, 1.1906021)
+LOCATION:Ketteringham Hall
 UID:match-7451533@play-cricket.com
 URL:https://play-cricket.com/website/results/7451533
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7451533
@@ -397,7 +397,7 @@ BEGIN:VEVENT
 DTSTART:20260628T130000
 DTEND:20260628T153000
 SUMMARY:Bungay Womens Softball vs Bradenham Womens Softball
-LOCATION:Bungay and District Sports Association (52.4617818, 1.4527957)
+LOCATION:Bungay and District Sports Association
 UID:match-7451537@play-cricket.com
 URL:https://play-cricket.com/website/results/7451537
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7451537
@@ -407,7 +407,7 @@ BEGIN:VEVENT
 DTSTART:20260708T183000
 DTEND:20260708T210000
 SUMMARY:Bradenham Womens Softball vs Diss Women's Softball XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380589@play-cricket.com
 URL:https://play-cricket.com/website/results/7380589
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380589
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 DTSTART:20260722T180000
 DTEND:20260722T203000
 SUMMARY:Mundford Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Mundford CC (52.5108391, 0.6528996000000001)
+LOCATION:Mundford CC
 UID:match-7380604@play-cricket.com
 URL:https://play-cricket.com/website/results/7380604
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380604
@@ -427,7 +427,7 @@ BEGIN:VEVENT
 DTSTART:20260728T180000
 DTEND:20260728T203000
 SUMMARY:Bradenham Womens Softball vs Rocklands Womens Softball
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380592@play-cricket.com
 URL:https://play-cricket.com/website/results/7380592
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380592
@@ -437,7 +437,7 @@ BEGIN:VEVENT
 DTSTART:20260809T130000
 DTEND:20260809T153000
 SUMMARY:Ketteringham Hall Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Bungay and District Sports Association (52.4617818, 1.4527957)
+LOCATION:Bungay and District Sports Association
 UID:match-7476015@play-cricket.com
 URL:https://play-cricket.com/website/results/7476015
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7476015
@@ -447,7 +447,7 @@ BEGIN:VEVENT
 DTSTART:20260809T130000
 DTEND:20260809T153000
 SUMMARY:Bradenham Womens Softball vs Hethersett & Tas-Valley Womens Softball
-LOCATION:Bungay and District Sports Association (52.4617818, 1.4527957)
+LOCATION:Bungay and District Sports Association
 UID:match-7476013@play-cricket.com
 URL:https://play-cricket.com/website/results/7476013
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7476013
@@ -457,7 +457,7 @@ BEGIN:VEVENT
 DTSTART:20260809T130000
 DTEND:20260809T153000
 SUMMARY:Bungay Womens Softball vs Bradenham Womens Softball
-LOCATION:Bungay and District Sports Association (52.4617818, 1.4527957)
+LOCATION:Bungay and District Sports Association
 UID:match-7476010@play-cricket.com
 URL:https://play-cricket.com/website/results/7476010
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7476010
@@ -467,7 +467,7 @@ BEGIN:VEVENT
 DTSTART:20260812T180000
 DTEND:20260812T203000
 SUMMARY:Bradenham Womens Softball vs Thetford Town Women's Softball XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380593@play-cricket.com
 URL:https://play-cricket.com/website/results/7380593
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380593
@@ -477,7 +477,7 @@ BEGIN:VEVENT
 DTSTART:20260428T180000
 DTEND:20260428T203000
 SUMMARY:Horsford Girls Under 15 vs Bradenham Girls Under 15
-LOCATION:Horsford Cricket Club (52.6783517, 1.2607886)
+LOCATION:Horsford Cricket Club
 UID:match-7501043@play-cricket.com
 URL:https://play-cricket.com/website/results/7501043
 DESCRIPTION:Competition: U15 Hardball Hundred\nhttps://play-cricket.com/website/results/7501043
@@ -487,7 +487,7 @@ BEGIN:VEVENT
 DTSTART:20260512T180000
 DTEND:20260512T203000
 SUMMARY:Bradenham Girls Under 15 vs Reepham & Salle Girls Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7501042@play-cricket.com
 URL:https://play-cricket.com/website/results/7501042
 DESCRIPTION:Competition: U15 Hardball Hundred\nhttps://play-cricket.com/website/results/7501042
@@ -497,7 +497,7 @@ BEGIN:VEVENT
 DTSTART:20260519T180000
 DTEND:20260519T203000
 SUMMARY:Bradenham Girls Under 15 vs Horsford Girls Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7501041@play-cricket.com
 URL:https://play-cricket.com/website/results/7501041
 DESCRIPTION:Competition: U15 Hardball Hundred\nhttps://play-cricket.com/website/results/7501041
@@ -507,7 +507,7 @@ BEGIN:VEVENT
 DTSTART:20260601T180000
 DTEND:20260601T203000
 SUMMARY:Reepham & Salle Girls Under 15 vs Bradenham Girls Under 15
-LOCATION:Salle Church Ground (52.7783476, 1.1301053)
+LOCATION:Salle Church Ground
 UID:match-7501045@play-cricket.com
 URL:https://play-cricket.com/website/results/7501045
 DESCRIPTION:Competition: U15 Hardball Hundred\nhttps://play-cricket.com/website/results/7501045
@@ -517,7 +517,7 @@ BEGIN:VEVENT
 DTSTART:20260811T180000
 DTEND:20260811T203000
 SUMMARY:Bradenham Girls Under 15 vs Reepham & Salle Girls Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7621990@play-cricket.com
 URL:https://play-cricket.com/website/results/7621990
 DESCRIPTION:https://play-cricket.com/website/results/7621990
@@ -527,7 +527,7 @@ BEGIN:VEVENT
 DTSTART:20260817T180000
 DTEND:20260817T203000
 SUMMARY:Bradenham Girls Under 15 vs Horsford Girls Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7581669@play-cricket.com
 URL:https://play-cricket.com/website/results/7581669
 DESCRIPTION:https://play-cricket.com/website/results/7581669
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 DTSTART:20260430T120000
 DTEND:20260430T143000
 SUMMARY:Bradenham Under 11 vs Hingham Under 11
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7602450@play-cricket.com
 URL:https://play-cricket.com/website/results/7602450
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7602450
@@ -547,7 +547,7 @@ BEGIN:VEVENT
 DTSTART:20260430T120000
 DTEND:20260430T143000
 SUMMARY:Hingham Under 11 vs Bradenham Under 11
-LOCATION:Watton Road Playing Fields (52.5800942, 0.9659996000000001)
+LOCATION:Watton Road Playing Fields
 UID:match-7602454@play-cricket.com
 URL:https://play-cricket.com/website/results/7602454
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7602454
@@ -557,7 +557,7 @@ BEGIN:VEVENT
 DTSTART:20260505T180000
 DTEND:20260505T203000
 SUMMARY:Bradenham Under 11 vs Dereham Under 11
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416022@play-cricket.com
 URL:https://play-cricket.com/website/results/7416022
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416022
@@ -567,7 +567,7 @@ BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
 SUMMARY:Great Witchingham Under 11 vs Bradenham Under 11
-LOCATION:Great Witchingham (52.7212219, 1.094211)
+LOCATION:Great Witchingham
 UID:match-7416031@play-cricket.com
 URL:https://play-cricket.com/website/results/7416031
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416031
@@ -577,7 +577,7 @@ BEGIN:VEVENT
 DTSTART:20260521T180000
 DTEND:20260521T203000
 SUMMARY:Great Melton U11 Fire vs Bradenham Under 11
-LOCATION:Great Melton Cricket Club (52.6163701, 1.1513756)
+LOCATION:Great Melton Cricket Club
 UID:match-7416028@play-cricket.com
 URL:https://play-cricket.com/website/results/7416028
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416028
@@ -587,7 +587,7 @@ BEGIN:VEVENT
 DTSTART:20260617T180000
 DTEND:20260617T203000
 SUMMARY:Bradenham Under 11 vs Great Witchingham Under 11
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416024@play-cricket.com
 URL:https://play-cricket.com/website/results/7416024
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416024
@@ -597,7 +597,7 @@ BEGIN:VEVENT
 DTSTART:20260715T180000
 DTEND:20260715T203000
 SUMMARY:Bradenham Under 11 vs Great Melton U11 Fire
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416023@play-cricket.com
 URL:https://play-cricket.com/website/results/7416023
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416023
@@ -607,7 +607,7 @@ BEGIN:VEVENT
 DTSTART:20260806T180000
 DTEND:20260806T203000
 SUMMARY:Dereham Under 11 vs Bradenham Under 11
-LOCATION:Dereham Cricket Club (52.679421, 0.9526868000000001)
+LOCATION:Dereham Cricket Club
 UID:match-7416025@play-cricket.com
 URL:https://play-cricket.com/website/results/7416025
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416025
@@ -617,7 +617,7 @@ BEGIN:VEVENT
 DTSTART:20260506T180000
 DTEND:20260506T203000
 SUMMARY:Reepham & Salle Under 15 vs Bradenham Under 15
-LOCATION:Salle Church Ground (52.7783476, 1.1301053)
+LOCATION:Salle Church Ground
 UID:match-7416456@play-cricket.com
 URL:https://play-cricket.com/website/results/7416456
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416456
@@ -627,7 +627,7 @@ BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
 SUMMARY:Great Ellingham Under 15 vs Bradenham Under 15
-LOCATION:Great Ellingham Recreation Ground (52.537704, 0.973542)
+LOCATION:Great Ellingham Recreation Ground
 UID:match-7416441@play-cricket.com
 URL:https://play-cricket.com/website/results/7416441
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416441
@@ -637,7 +637,7 @@ BEGIN:VEVENT
 DTSTART:20260520T180000
 DTEND:20260520T203000
 SUMMARY:Bradenham Under 15 vs Dereham Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416431@play-cricket.com
 URL:https://play-cricket.com/website/results/7416431
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416431
@@ -647,7 +647,7 @@ BEGIN:VEVENT
 DTSTART:20260601T180000
 DTEND:20260601T203000
 SUMMARY:Bradenham Under 15 vs Reepham & Salle Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416435@play-cricket.com
 URL:https://play-cricket.com/website/results/7416435
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416435
@@ -657,7 +657,7 @@ BEGIN:VEVENT
 DTSTART:20260608T180000
 DTEND:20260608T203000
 SUMMARY:Bradenham Under 15 vs Great Ellingham Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416432@play-cricket.com
 URL:https://play-cricket.com/website/results/7416432
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416432
@@ -667,7 +667,7 @@ BEGIN:VEVENT
 DTSTART:20260615T180000
 DTEND:20260615T203000
 SUMMARY:Bradenham Under 15 vs Great Witchingham Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416434@play-cricket.com
 URL:https://play-cricket.com/website/results/7416434
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416434
@@ -677,7 +677,7 @@ BEGIN:VEVENT
 DTSTART:20260625T180000
 DTEND:20260625T203000
 SUMMARY:Dereham Under 15 vs Bradenham Under 15
-LOCATION:Dereham Cricket Club (52.679421, 0.9526868000000001)
+LOCATION:Dereham Cricket Club
 UID:match-7416436@play-cricket.com
 URL:https://play-cricket.com/website/results/7416436
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416436
@@ -687,7 +687,7 @@ BEGIN:VEVENT
 DTSTART:20260723T180000
 DTEND:20260723T203000
 SUMMARY:Bradenham Under 15 vs Great Melton U15 Blaze
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416433@play-cricket.com
 URL:https://play-cricket.com/website/results/7416433
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416433
@@ -697,7 +697,7 @@ BEGIN:VEVENT
 DTSTART:20260730T180000
 DTEND:20260730T203000
 SUMMARY:Great Melton U15 Blaze vs Bradenham Under 15
-LOCATION:Great Melton Cricket Club (52.6163701, 1.1513756)
+LOCATION:Great Melton Cricket Club
 UID:match-7416446@play-cricket.com
 URL:https://play-cricket.com/website/results/7416446
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416446
@@ -707,7 +707,7 @@ BEGIN:VEVENT
 DTSTART:20260810T180000
 DTEND:20260810T203000
 SUMMARY:Great Witchingham Under 15 vs Bradenham Under 15
-LOCATION:Great Witchingham (52.7212219, 1.094211)
+LOCATION:Great Witchingham
 UID:match-7416451@play-cricket.com
 URL:https://play-cricket.com/website/results/7416451
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416451
@@ -717,7 +717,7 @@ BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
 SUMMARY:Reepham & Salle Under 13 vs Bradenham Bradenham Bears
-LOCATION:Salle Church Ground (52.7783476, 1.1301053)
+LOCATION:Salle Church Ground
 UID:match-7436750@play-cricket.com
 URL:https://play-cricket.com/website/results/7436750
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7436750
@@ -727,7 +727,7 @@ BEGIN:VEVENT
 DTSTART:20260519T180000
 DTEND:20260519T203000
 SUMMARY:Great Witchingham Under 13 vs Bradenham Bradenham Bears
-LOCATION:Great Witchingham (52.7212219, 1.094211)
+LOCATION:Great Witchingham
 UID:match-7416260@play-cricket.com
 URL:https://play-cricket.com/website/results/7416260
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416260
@@ -737,7 +737,7 @@ BEGIN:VEVENT
 DTSTART:20260603T180000
 DTEND:20260603T203000
 SUMMARY:Great Melton U13 Fire vs Bradenham Bradenham Bears
-LOCATION:Great Melton Cricket Club (52.6163701, 1.1513756)
+LOCATION:Great Melton Cricket Club
 UID:match-7416256@play-cricket.com
 URL:https://play-cricket.com/website/results/7416256
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416256
@@ -747,7 +747,7 @@ BEGIN:VEVENT
 DTSTART:20260701T180000
 DTEND:20260701T203000
 SUMMARY:Bradenham Bradenham Bears vs Dereham Under 13
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416248@play-cricket.com
 URL:https://play-cricket.com/website/results/7416248
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416248
@@ -757,7 +757,7 @@ BEGIN:VEVENT
 DTSTART:20260706T180000
 DTEND:20260706T203000
 SUMMARY:Bradenham Bradenham Bears vs Reepham & Salle Under 13
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7436746@play-cricket.com
 URL:https://play-cricket.com/website/results/7436746
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7436746
@@ -767,7 +767,7 @@ BEGIN:VEVENT
 DTSTART:20260714T180000
 DTEND:20260714T203000
 SUMMARY:Bradenham Bradenham Bears vs Great Witchingham Under 13
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416250@play-cricket.com
 URL:https://play-cricket.com/website/results/7416250
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416250
@@ -777,7 +777,7 @@ BEGIN:VEVENT
 DTSTART:20260803T180000
 DTEND:20260803T203000
 SUMMARY:Bradenham Bradenham Bears vs Great Melton U13 Fire
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416249@play-cricket.com
 URL:https://play-cricket.com/website/results/7416249
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416249
@@ -787,7 +787,7 @@ BEGIN:VEVENT
 DTSTART:20260817T180000
 DTEND:20260817T203000
 SUMMARY:Dereham Under 13 vs Bradenham Bradenham Bears
-LOCATION:Dereham Cricket Club (52.679421, 0.9526868000000001)
+LOCATION:Dereham Cricket Club
 UID:match-7416252@play-cricket.com
 URL:https://play-cricket.com/website/results/7416252
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416252
@@ -797,7 +797,7 @@ BEGIN:VEVENT
 DTSTART:20260524T130000
 DTEND:20260524T190000
 SUMMARY:South Walsham Sunday XI vs Bradenham Friendly XI
-LOCATION:South Walsham Playing Field (52.6636, 1.5040)
+LOCATION:South Walsham Playing Field
 UID:match-7213429@play-cricket.com
 URL:https://play-cricket.com/website/results/7213429
 DESCRIPTION:https://play-cricket.com/website/results/7213429
@@ -807,7 +807,7 @@ BEGIN:VEVENT
 DTSTART:20260607T130000
 DTEND:20260607T190000
 SUMMARY:St Andrews Friendly XI vs Bradenham Friendly XI
-LOCATION:Postwick (52.61895819999999, 1.3990413)
+LOCATION:Postwick
 UID:match-7214799@play-cricket.com
 URL:https://play-cricket.com/website/results/7214799
 DESCRIPTION:https://play-cricket.com/website/results/7214799
@@ -817,7 +817,7 @@ BEGIN:VEVENT
 DTSTART:20260614T130000
 DTEND:20260614T190000
 SUMMARY:Bradenham Friendly XI vs Marlingford Sunday XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7216264@play-cricket.com
 URL:https://play-cricket.com/website/results/7216264
 DESCRIPTION:https://play-cricket.com/website/results/7216264
@@ -827,7 +827,7 @@ BEGIN:VEVENT
 DTSTART:20260705T130000
 DTEND:20260705T190000
 SUMMARY:Marlingford Sunday XI vs Bradenham Friendly XI
-LOCATION:Marlingford Cricket Club (52.6347037, 1.1453299)
+LOCATION:Marlingford Cricket Club
 UID:match-7216265@play-cricket.com
 URL:https://play-cricket.com/website/results/7216265
 DESCRIPTION:https://play-cricket.com/website/results/7216265
@@ -837,7 +837,7 @@ BEGIN:VEVENT
 DTSTART:20260726T130000
 DTEND:20260726T190000
 SUMMARY:Bradenham Friendly XI vs South Walsham Sunday XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7213430@play-cricket.com
 URL:https://play-cricket.com/website/results/7213430
 DESCRIPTION:https://play-cricket.com/website/results/7213430
@@ -847,7 +847,7 @@ BEGIN:VEVENT
 DTSTART:20260809T130000
 DTEND:20260809T190000
 SUMMARY:Bradenham Friendly XI vs St Andrews Friendly XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7214798@play-cricket.com
 URL:https://play-cricket.com/website/results/7214798
 DESCRIPTION:https://play-cricket.com/website/results/7214798
@@ -857,7 +857,7 @@ BEGIN:VEVENT
 DTSTART:20260830T130000
 DTEND:20260830T190000
 SUMMARY:Bradenham Friendly XI vs Eaton 1st XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7214796@play-cricket.com
 URL:https://play-cricket.com/website/results/7214796
 DESCRIPTION:https://play-cricket.com/website/results/7214796
@@ -867,7 +867,7 @@ BEGIN:VEVENT
 DTSTART:20260603T180000
 DTEND:20260603T203000
 SUMMARY:Bradenham Under 17 vs Old Buckenham Under 17
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7415714@play-cricket.com
 URL:https://play-cricket.com/website/results/7415714
 DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415714
@@ -877,7 +877,7 @@ BEGIN:VEVENT
 DTSTART:20260617T180000
 DTEND:20260617T203000
 SUMMARY:Thetford Town Under 17 vs Bradenham Under 17
-LOCATION:Thetford Town Cricket Club (52.42457580000001, 0.7413723999999999)
+LOCATION:Thetford Town Cricket Club
 UID:match-7415737@play-cricket.com
 URL:https://play-cricket.com/website/results/7415737
 DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415737
@@ -887,7 +887,7 @@ BEGIN:VEVENT
 DTSTART:20260624T180000
 DTEND:20260624T203000
 SUMMARY:Bradenham Under 17 vs Thetford Town Under 17
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7415716@play-cricket.com
 URL:https://play-cricket.com/website/results/7415716
 DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415716
@@ -897,7 +897,7 @@ BEGIN:VEVENT
 DTSTART:20260629T180000
 DTEND:20260629T203000
 SUMMARY:Bradenham Under 17 vs Rocklands Under 17
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7415715@play-cricket.com
 URL:https://play-cricket.com/website/results/7415715
 DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415715
@@ -907,7 +907,7 @@ BEGIN:VEVENT
 DTSTART:20260707T180000
 DTEND:20260707T203000
 SUMMARY:Fakenham Under 17 vs Bradenham Under 17
-LOCATION:Highfield Lawn (52.83666059999999, 0.8456838)
+LOCATION:Highfield Lawn
 UID:match-7415722@play-cricket.com
 URL:https://play-cricket.com/website/results/7415722
 DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415722
@@ -917,7 +917,7 @@ BEGIN:VEVENT
 DTSTART:20260720T180000
 DTEND:20260720T203000
 SUMMARY:Rocklands Under 17 vs Bradenham Under 17
-LOCATION:Rocklands Playing Field Pavilion (52.5344744, 0.9378519999999998)
+LOCATION:Rocklands Playing Field Pavilion
 UID:match-7415732@play-cricket.com
 URL:https://play-cricket.com/website/results/7415732
 DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415732
@@ -927,7 +927,7 @@ BEGIN:VEVENT
 DTSTART:20260721T180000
 DTEND:20260721T203000
 SUMMARY:Bradenham Under 17 vs Fakenham Under 17
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7415713@play-cricket.com
 URL:https://play-cricket.com/website/results/7415713
 DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415713
@@ -937,7 +937,7 @@ BEGIN:VEVENT
 DTSTART:20260730T180000
 DTEND:20260730T203000
 SUMMARY:Old Buckenham Under 17 vs Bradenham Under 17
-LOCATION:Horry Panks Cricket Ground (52.485041, 1.041062)
+LOCATION:Horry Panks Cricket Ground
 UID:match-7415727@play-cricket.com
 URL:https://play-cricket.com/website/results/7415727
 DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415727
@@ -947,7 +947,7 @@ BEGIN:VEVENT
 DTSTART:20260614T100000
 DTEND:20260614T123000
 SUMMARY:Denver Under 9 Softball vs Bradenham Under 9 Softball
-LOCATION:Denver Playing Field (52.5904119, 0.381147)
+LOCATION:Denver Playing Field
 UID:match-7611882@play-cricket.com
 URL:https://play-cricket.com/website/results/7611882
 DESCRIPTION:Competition: U9 Softball Group 2\nhttps://play-cricket.com/website/results/7611882
@@ -957,7 +957,7 @@ BEGIN:VEVENT
 DTSTART:20260614T104500
 DTEND:20260614T131500
 SUMMARY:Bradenham Under 9 Softball vs Downham Stow Under 9 Softball
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7611880@play-cricket.com
 URL:https://play-cricket.com/website/results/7611880
 DESCRIPTION:Competition: U9 Softball Group 2\nhttps://play-cricket.com/website/results/7611880
@@ -967,7 +967,7 @@ BEGIN:VEVENT
 DTSTART:20260614T113000
 DTEND:20260614T140000
 SUMMARY:Hockwold Under 9 Softball vs Bradenham Under 9 Softball
-LOCATION:Hockwold Cricket Club (52.46356489999999, 0.5475609)
+LOCATION:Hockwold Cricket Club
 UID:match-7611886@play-cricket.com
 URL:https://play-cricket.com/website/results/7611886
 DESCRIPTION:Competition: U9 Softball Group 2\nhttps://play-cricket.com/website/results/7611886
@@ -977,7 +977,7 @@ BEGIN:VEVENT
 DTSTART:20260614T121500
 DTEND:20260614T144500
 SUMMARY:Bradenham Under 9 Softball vs Mundford Under 9 Softball
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7611881@play-cricket.com
 URL:https://play-cricket.com/website/results/7611881
 DESCRIPTION:Competition: U9 Softball Group 2\nhttps://play-cricket.com/website/results/7611881
@@ -987,7 +987,7 @@ BEGIN:VEVENT
 DTSTART:20260712T103000
 DTEND:20260712T163000
 SUMMARY:Bradenham U13 Girls Softball vs Bradenham Fixture Secretary XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7581672@play-cricket.com
 URL:https://play-cricket.com/website/results/7581672
 DESCRIPTION:https://play-cricket.com/website/results/7581672

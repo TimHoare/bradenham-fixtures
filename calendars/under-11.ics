@@ -8,7 +8,7 @@ BEGIN:VEVENT
 DTSTART:20260430T120000
 DTEND:20260430T143000
 SUMMARY:Bradenham Under 11 vs Hingham Under 11
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7602450@play-cricket.com
 URL:https://play-cricket.com/website/results/7602450
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7602450
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTART:20260430T120000
 DTEND:20260430T143000
 SUMMARY:Hingham Under 11 vs Bradenham Under 11
-LOCATION:Watton Road Playing Fields (52.5800942, 0.9659996000000001)
+LOCATION:Watton Road Playing Fields
 UID:match-7602454@play-cricket.com
 URL:https://play-cricket.com/website/results/7602454
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7602454
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20260505T180000
 DTEND:20260505T203000
 SUMMARY:Bradenham Under 11 vs Dereham Under 11
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416022@play-cricket.com
 URL:https://play-cricket.com/website/results/7416022
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416022
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
 SUMMARY:Great Witchingham Under 11 vs Bradenham Under 11
-LOCATION:Great Witchingham (52.7212219, 1.094211)
+LOCATION:Great Witchingham
 UID:match-7416031@play-cricket.com
 URL:https://play-cricket.com/website/results/7416031
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416031
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 DTSTART:20260521T180000
 DTEND:20260521T203000
 SUMMARY:Great Melton U11 Fire vs Bradenham Under 11
-LOCATION:Great Melton Cricket Club (52.6163701, 1.1513756)
+LOCATION:Great Melton Cricket Club
 UID:match-7416028@play-cricket.com
 URL:https://play-cricket.com/website/results/7416028
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416028
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 DTSTART:20260617T180000
 DTEND:20260617T203000
 SUMMARY:Bradenham Under 11 vs Great Witchingham Under 11
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416024@play-cricket.com
 URL:https://play-cricket.com/website/results/7416024
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416024
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DTSTART:20260715T180000
 DTEND:20260715T203000
 SUMMARY:Bradenham Under 11 vs Great Melton U11 Fire
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416023@play-cricket.com
 URL:https://play-cricket.com/website/results/7416023
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416023
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 DTSTART:20260806T180000
 DTEND:20260806T203000
 SUMMARY:Dereham Under 11 vs Bradenham Under 11
-LOCATION:Dereham Cricket Club (52.679421, 0.9526868000000001)
+LOCATION:Dereham Cricket Club
 UID:match-7416025@play-cricket.com
 URL:https://play-cricket.com/website/results/7416025
 DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416025

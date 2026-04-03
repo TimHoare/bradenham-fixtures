@@ -8,7 +8,7 @@ BEGIN:VEVENT
 DTSTART:20260422T180000
 DTEND:20260422T203000
 SUMMARY:Great Ellingham Womens Softball vs Bradenham Womens Softball
-LOCATION:Great Ellingham (52.5373494, 0.9735187999999998)
+LOCATION:Great Ellingham
 UID:match-7380599@play-cricket.com
 URL:https://play-cricket.com/website/results/7380599
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380599
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTART:20260427T183000
 DTEND:20260427T210000
 SUMMARY:Diss Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Rectory Meadow (52.374422, 1.1148631)
+LOCATION:Rectory Meadow
 UID:match-7380594@play-cricket.com
 URL:https://play-cricket.com/website/results/7380594
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380594
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20260503T120000
 DTEND:20260503T180000
 SUMMARY:Bradenham Womens Softball vs Bradenham Fixture Secretary XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7268615@play-cricket.com
 URL:https://play-cricket.com/website/results/7268615
 DESCRIPTION:https://play-cricket.com/website/results/7268615
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART:20260510T103000
 DTEND:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Hethersett & Tas-Valley Womens Softball
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7475987@play-cricket.com
 URL:https://play-cricket.com/website/results/7475987
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7475987
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 DTSTART:20260510T103000
 DTEND:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Bungay Womens Softball
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7475985@play-cricket.com
 URL:https://play-cricket.com/website/results/7475985
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7475985
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 DTSTART:20260510T103000
 DTEND:20260510T130000
 SUMMARY:Bradenham Womens Softball vs Ketteringham Hall Women's Softball XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7475988@play-cricket.com
 URL:https://play-cricket.com/website/results/7475988
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7475988
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
 SUMMARY:Bradenham Womens Softball vs Mundford Women's Softball XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380591@play-cricket.com
 URL:https://play-cricket.com/website/results/7380591
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380591
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 DTSTART:20260531T103000
 DTEND:20260531T130000
 SUMMARY:Ketteringham Hall Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Ketteringham Hall (52.5781806, 1.1906021)
+LOCATION:Ketteringham Hall
 UID:match-7516120@play-cricket.com
 URL:https://play-cricket.com/website/results/7516120
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7516120
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 DTSTART:20260531T103000
 DTEND:20260531T130000
 SUMMARY:Bradenham Womens Softball vs Bungay Womens Softball
-LOCATION:Ketteringham Hall (52.5781806, 1.1906021)
+LOCATION:Ketteringham Hall
 UID:match-7516123@play-cricket.com
 URL:https://play-cricket.com/website/results/7516123
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7516123
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 DTSTART:20260531T103000
 DTEND:20260531T130000
 SUMMARY:Hethersett & Tas-Valley Womens Softball vs Bradenham Womens Softball
-LOCATION:Ketteringham Hall (52.5781806, 1.1906021)
+LOCATION:Ketteringham Hall
 UID:match-7516125@play-cricket.com
 URL:https://play-cricket.com/website/results/7516125
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7516125
@@ -108,7 +108,7 @@ BEGIN:VEVENT
 DTSTART:20260604T180000
 DTEND:20260604T203000
 SUMMARY:Rocklands Womens Softball vs Bradenham Womens Softball
-LOCATION:Rocklands Playing Field Pavilion (52.5344744, 0.9378519999999998)
+LOCATION:Rocklands Playing Field Pavilion
 UID:match-7380609@play-cricket.com
 URL:https://play-cricket.com/website/results/7380609
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380609
@@ -118,7 +118,7 @@ BEGIN:VEVENT
 DTSTART:20260612T180000
 DTEND:20260612T203000
 SUMMARY:Thetford Town Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Thetford Town Cricket Club (52.42457580000001, 0.7413723999999999)
+LOCATION:Thetford Town Cricket Club
 UID:match-7380614@play-cricket.com
 URL:https://play-cricket.com/website/results/7380614
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380614
@@ -128,7 +128,7 @@ BEGIN:VEVENT
 DTSTART:20260622T180000
 DTEND:20260622T203000
 SUMMARY:Bradenham Womens Softball vs Great Ellingham Womens Softball
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380590@play-cricket.com
 URL:https://play-cricket.com/website/results/7380590
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380590
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DTSTART:20260628T130000
 DTEND:20260628T153000
 SUMMARY:Bradenham Womens Softball vs Ketteringham Hall Women's Softball XI
-LOCATION:UEA SportsPark (52.6245439, 1.2409256)
+LOCATION:UEA SportsPark
 UID:match-7451538@play-cricket.com
 URL:https://play-cricket.com/website/results/7451538
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7451538
@@ -148,7 +148,7 @@ BEGIN:VEVENT
 DTSTART:20260628T130000
 DTEND:20260628T153000
 SUMMARY:Hethersett & Tas-Valley Womens Softball vs Bradenham Womens Softball
-LOCATION:Ketteringham Hall (52.5781806, 1.1906021)
+LOCATION:Ketteringham Hall
 UID:match-7451533@play-cricket.com
 URL:https://play-cricket.com/website/results/7451533
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7451533
@@ -158,7 +158,7 @@ BEGIN:VEVENT
 DTSTART:20260628T130000
 DTEND:20260628T153000
 SUMMARY:Bungay Womens Softball vs Bradenham Womens Softball
-LOCATION:Bungay and District Sports Association (52.4617818, 1.4527957)
+LOCATION:Bungay and District Sports Association
 UID:match-7451537@play-cricket.com
 URL:https://play-cricket.com/website/results/7451537
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7451537
@@ -168,7 +168,7 @@ BEGIN:VEVENT
 DTSTART:20260708T183000
 DTEND:20260708T210000
 SUMMARY:Bradenham Womens Softball vs Diss Women's Softball XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380589@play-cricket.com
 URL:https://play-cricket.com/website/results/7380589
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380589
@@ -178,7 +178,7 @@ BEGIN:VEVENT
 DTSTART:20260722T180000
 DTEND:20260722T203000
 SUMMARY:Mundford Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Mundford CC (52.5108391, 0.6528996000000001)
+LOCATION:Mundford CC
 UID:match-7380604@play-cricket.com
 URL:https://play-cricket.com/website/results/7380604
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380604
@@ -188,7 +188,7 @@ BEGIN:VEVENT
 DTSTART:20260728T180000
 DTEND:20260728T203000
 SUMMARY:Bradenham Womens Softball vs Rocklands Womens Softball
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380592@play-cricket.com
 URL:https://play-cricket.com/website/results/7380592
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380592
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 DTSTART:20260809T130000
 DTEND:20260809T153000
 SUMMARY:Ketteringham Hall Women's Softball XI vs Bradenham Womens Softball
-LOCATION:Bungay and District Sports Association (52.4617818, 1.4527957)
+LOCATION:Bungay and District Sports Association
 UID:match-7476015@play-cricket.com
 URL:https://play-cricket.com/website/results/7476015
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7476015
@@ -208,7 +208,7 @@ BEGIN:VEVENT
 DTSTART:20260809T130000
 DTEND:20260809T153000
 SUMMARY:Bradenham Womens Softball vs Hethersett & Tas-Valley Womens Softball
-LOCATION:Bungay and District Sports Association (52.4617818, 1.4527957)
+LOCATION:Bungay and District Sports Association
 UID:match-7476013@play-cricket.com
 URL:https://play-cricket.com/website/results/7476013
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7476013
@@ -218,7 +218,7 @@ BEGIN:VEVENT
 DTSTART:20260809T130000
 DTEND:20260809T153000
 SUMMARY:Bungay Womens Softball vs Bradenham Womens Softball
-LOCATION:Bungay and District Sports Association (52.4617818, 1.4527957)
+LOCATION:Bungay and District Sports Association
 UID:match-7476010@play-cricket.com
 URL:https://play-cricket.com/website/results/7476010
 DESCRIPTION:Competition: NCB WSL - Group C\nhttps://play-cricket.com/website/results/7476010
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 DTSTART:20260812T180000
 DTEND:20260812T203000
 SUMMARY:Bradenham Womens Softball vs Thetford Town Women's Softball XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7380593@play-cricket.com
 URL:https://play-cricket.com/website/results/7380593
 DESCRIPTION:Competition: Hundred South\nhttps://play-cricket.com/website/results/7380593

@@ -8,7 +8,7 @@ BEGIN:VEVENT
 DTSTART:20260506T180000
 DTEND:20260506T203000
 SUMMARY:Reepham & Salle Under 15 vs Bradenham Under 15
-LOCATION:Salle Church Ground (52.7783476, 1.1301053)
+LOCATION:Salle Church Ground
 UID:match-7416456@play-cricket.com
 URL:https://play-cricket.com/website/results/7416456
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416456
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
 SUMMARY:Great Ellingham Under 15 vs Bradenham Under 15
-LOCATION:Great Ellingham Recreation Ground (52.537704, 0.973542)
+LOCATION:Great Ellingham Recreation Ground
 UID:match-7416441@play-cricket.com
 URL:https://play-cricket.com/website/results/7416441
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416441
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20260520T180000
 DTEND:20260520T203000
 SUMMARY:Bradenham Under 15 vs Dereham Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416431@play-cricket.com
 URL:https://play-cricket.com/website/results/7416431
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416431
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART:20260601T180000
 DTEND:20260601T203000
 SUMMARY:Bradenham Under 15 vs Reepham & Salle Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416435@play-cricket.com
 URL:https://play-cricket.com/website/results/7416435
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416435
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 DTSTART:20260608T180000
 DTEND:20260608T203000
 SUMMARY:Bradenham Under 15 vs Great Ellingham Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416432@play-cricket.com
 URL:https://play-cricket.com/website/results/7416432
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416432
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 DTSTART:20260615T180000
 DTEND:20260615T203000
 SUMMARY:Bradenham Under 15 vs Great Witchingham Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416434@play-cricket.com
 URL:https://play-cricket.com/website/results/7416434
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416434
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DTSTART:20260625T180000
 DTEND:20260625T203000
 SUMMARY:Dereham Under 15 vs Bradenham Under 15
-LOCATION:Dereham Cricket Club (52.679421, 0.9526868000000001)
+LOCATION:Dereham Cricket Club
 UID:match-7416436@play-cricket.com
 URL:https://play-cricket.com/website/results/7416436
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416436
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 DTSTART:20260723T180000
 DTEND:20260723T203000
 SUMMARY:Bradenham Under 15 vs Great Melton U15 Blaze
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416433@play-cricket.com
 URL:https://play-cricket.com/website/results/7416433
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416433
@@ -88,7 +88,7 @@ BEGIN:VEVENT
 DTSTART:20260730T180000
 DTEND:20260730T203000
 SUMMARY:Great Melton U15 Blaze vs Bradenham Under 15
-LOCATION:Great Melton Cricket Club (52.6163701, 1.1513756)
+LOCATION:Great Melton Cricket Club
 UID:match-7416446@play-cricket.com
 URL:https://play-cricket.com/website/results/7416446
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416446
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 DTSTART:20260810T180000
 DTEND:20260810T203000
 SUMMARY:Great Witchingham Under 15 vs Bradenham Under 15
-LOCATION:Great Witchingham (52.7212219, 1.094211)
+LOCATION:Great Witchingham
 UID:match-7416451@play-cricket.com
 URL:https://play-cricket.com/website/results/7416451
 DESCRIPTION:Competition: U15 Tier 2 - Group 2\nhttps://play-cricket.com/website/results/7416451

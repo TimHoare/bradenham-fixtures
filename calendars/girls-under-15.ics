@@ -8,7 +8,7 @@ BEGIN:VEVENT
 DTSTART:20260428T180000
 DTEND:20260428T203000
 SUMMARY:Horsford Girls Under 15 vs Bradenham Girls Under 15
-LOCATION:Horsford Cricket Club (52.6783517, 1.2607886)
+LOCATION:Horsford Cricket Club
 UID:match-7501043@play-cricket.com
 URL:https://play-cricket.com/website/results/7501043
 DESCRIPTION:Competition: U15 Hardball Hundred\nhttps://play-cricket.com/website/results/7501043
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTART:20260512T180000
 DTEND:20260512T203000
 SUMMARY:Bradenham Girls Under 15 vs Reepham & Salle Girls Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7501042@play-cricket.com
 URL:https://play-cricket.com/website/results/7501042
 DESCRIPTION:Competition: U15 Hardball Hundred\nhttps://play-cricket.com/website/results/7501042
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20260519T180000
 DTEND:20260519T203000
 SUMMARY:Bradenham Girls Under 15 vs Horsford Girls Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7501041@play-cricket.com
 URL:https://play-cricket.com/website/results/7501041
 DESCRIPTION:Competition: U15 Hardball Hundred\nhttps://play-cricket.com/website/results/7501041
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART:20260601T180000
 DTEND:20260601T203000
 SUMMARY:Reepham & Salle Girls Under 15 vs Bradenham Girls Under 15
-LOCATION:Salle Church Ground (52.7783476, 1.1301053)
+LOCATION:Salle Church Ground
 UID:match-7501045@play-cricket.com
 URL:https://play-cricket.com/website/results/7501045
 DESCRIPTION:Competition: U15 Hardball Hundred\nhttps://play-cricket.com/website/results/7501045
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 DTSTART:20260811T180000
 DTEND:20260811T203000
 SUMMARY:Bradenham Girls Under 15 vs Reepham & Salle Girls Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7621990@play-cricket.com
 URL:https://play-cricket.com/website/results/7621990
 DESCRIPTION:https://play-cricket.com/website/results/7621990
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 DTSTART:20260817T180000
 DTEND:20260817T203000
 SUMMARY:Bradenham Girls Under 15 vs Horsford Girls Under 15
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7581669@play-cricket.com
 URL:https://play-cricket.com/website/results/7581669
 DESCRIPTION:https://play-cricket.com/website/results/7581669

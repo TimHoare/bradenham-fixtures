@@ -167,16 +167,8 @@ def match_coords(match):
 
 
 def match_location(match):
-    """Build a location string that Google Calendar can map.
-
-    Uses 'Ground Name (lat, lon)' which Google resolves to a map pin.
-    Falls back to ground name alone if no coordinates are available.
-    """
-    ground = match.get("ground_name", "")
-    lat, lon = match_coords(match)
-    if lat and lon:
-        return f"{ground} ({lat}, {lon})" if ground else f"{lat}, {lon}"
-    return ground
+    """Return the ground name for the LOCATION field."""
+    return match.get("ground_name", "")
 
 
 def make_ical_event(match):

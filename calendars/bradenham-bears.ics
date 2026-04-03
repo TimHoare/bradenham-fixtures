@@ -8,7 +8,7 @@ BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
 SUMMARY:Reepham & Salle Under 13 vs Bradenham Bradenham Bears
-LOCATION:Salle Church Ground (52.7783476, 1.1301053)
+LOCATION:Salle Church Ground
 UID:match-7436750@play-cricket.com
 URL:https://play-cricket.com/website/results/7436750
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7436750
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTART:20260519T180000
 DTEND:20260519T203000
 SUMMARY:Great Witchingham Under 13 vs Bradenham Bradenham Bears
-LOCATION:Great Witchingham (52.7212219, 1.094211)
+LOCATION:Great Witchingham
 UID:match-7416260@play-cricket.com
 URL:https://play-cricket.com/website/results/7416260
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416260
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20260603T180000
 DTEND:20260603T203000
 SUMMARY:Great Melton U13 Fire vs Bradenham Bradenham Bears
-LOCATION:Great Melton Cricket Club (52.6163701, 1.1513756)
+LOCATION:Great Melton Cricket Club
 UID:match-7416256@play-cricket.com
 URL:https://play-cricket.com/website/results/7416256
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416256
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART:20260701T180000
 DTEND:20260701T203000
 SUMMARY:Bradenham Bradenham Bears vs Dereham Under 13
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416248@play-cricket.com
 URL:https://play-cricket.com/website/results/7416248
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416248
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 DTSTART:20260706T180000
 DTEND:20260706T203000
 SUMMARY:Bradenham Bradenham Bears vs Reepham & Salle Under 13
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7436746@play-cricket.com
 URL:https://play-cricket.com/website/results/7436746
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7436746
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 DTSTART:20260714T180000
 DTEND:20260714T203000
 SUMMARY:Bradenham Bradenham Bears vs Great Witchingham Under 13
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416250@play-cricket.com
 URL:https://play-cricket.com/website/results/7416250
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416250
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DTSTART:20260803T180000
 DTEND:20260803T203000
 SUMMARY:Bradenham Bradenham Bears vs Great Melton U13 Fire
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7416249@play-cricket.com
 URL:https://play-cricket.com/website/results/7416249
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416249
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 DTSTART:20260817T180000
 DTEND:20260817T203000
 SUMMARY:Dereham Under 13 vs Bradenham Bradenham Bears
-LOCATION:Dereham Cricket Club (52.679421, 0.9526868000000001)
+LOCATION:Dereham Cricket Club
 UID:match-7416252@play-cricket.com
 URL:https://play-cricket.com/website/results/7416252
 DESCRIPTION:Competition: U13 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416252

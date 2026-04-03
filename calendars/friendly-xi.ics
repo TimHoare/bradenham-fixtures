@@ -8,7 +8,7 @@ BEGIN:VEVENT
 DTSTART:20260524T130000
 DTEND:20260524T190000
 SUMMARY:South Walsham Sunday XI vs Bradenham Friendly XI
-LOCATION:South Walsham Playing Field (52.6636, 1.5040)
+LOCATION:South Walsham Playing Field
 UID:match-7213429@play-cricket.com
 URL:https://play-cricket.com/website/results/7213429
 DESCRIPTION:https://play-cricket.com/website/results/7213429
@@ -18,7 +18,7 @@ BEGIN:VEVENT
 DTSTART:20260607T130000
 DTEND:20260607T190000
 SUMMARY:St Andrews Friendly XI vs Bradenham Friendly XI
-LOCATION:Postwick (52.61895819999999, 1.3990413)
+LOCATION:Postwick
 UID:match-7214799@play-cricket.com
 URL:https://play-cricket.com/website/results/7214799
 DESCRIPTION:https://play-cricket.com/website/results/7214799
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 DTSTART:20260614T130000
 DTEND:20260614T190000
 SUMMARY:Bradenham Friendly XI vs Marlingford Sunday XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7216264@play-cricket.com
 URL:https://play-cricket.com/website/results/7216264
 DESCRIPTION:https://play-cricket.com/website/results/7216264
@@ -38,7 +38,7 @@ BEGIN:VEVENT
 DTSTART:20260705T130000
 DTEND:20260705T190000
 SUMMARY:Marlingford Sunday XI vs Bradenham Friendly XI
-LOCATION:Marlingford Cricket Club (52.6347037, 1.1453299)
+LOCATION:Marlingford Cricket Club
 UID:match-7216265@play-cricket.com
 URL:https://play-cricket.com/website/results/7216265
 DESCRIPTION:https://play-cricket.com/website/results/7216265
@@ -48,7 +48,7 @@ BEGIN:VEVENT
 DTSTART:20260726T130000
 DTEND:20260726T190000
 SUMMARY:Bradenham Friendly XI vs South Walsham Sunday XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7213430@play-cricket.com
 URL:https://play-cricket.com/website/results/7213430
 DESCRIPTION:https://play-cricket.com/website/results/7213430
@@ -58,7 +58,7 @@ BEGIN:VEVENT
 DTSTART:20260809T130000
 DTEND:20260809T190000
 SUMMARY:Bradenham Friendly XI vs St Andrews Friendly XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7214798@play-cricket.com
 URL:https://play-cricket.com/website/results/7214798
 DESCRIPTION:https://play-cricket.com/website/results/7214798
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DTSTART:20260830T130000
 DTEND:20260830T190000
 SUMMARY:Bradenham Friendly XI vs Eaton 1st XI
-LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
+LOCATION:Bradenham Green
 UID:match-7214796@play-cricket.com
 URL:https://play-cricket.com/website/results/7214796
 DESCRIPTION:https://play-cricket.com/website/results/7214796

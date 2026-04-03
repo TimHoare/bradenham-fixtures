@@ -7,65 +7,81 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20260603T180000
 DTEND:20260603T203000
-SUMMARY:Under 17 vs Under 17
-LOCATION:Bradenham Green
+SUMMARY:Bradenham Under 17 vs Old Buckenham Under 17
+LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
 UID:match-7415714@play-cricket.com
-DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1
+URL:https://play-cricket.com/website/results/7415714
+DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415714
+GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T180000
 DTEND:20260617T203000
-SUMMARY:Under 17 vs Under 17
-LOCATION:Thetford Town Cricket Club
+SUMMARY:Thetford Town Under 17 vs Bradenham Under 17
+LOCATION:Thetford Town Cricket Club (52.42457580000001, 0.7413723999999999)
 UID:match-7415737@play-cricket.com
-DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1
+URL:https://play-cricket.com/website/results/7415737
+DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415737
+GEO:52.42457580000001;0.7413723999999999
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T180000
 DTEND:20260624T203000
-SUMMARY:Under 17 vs Under 17
-LOCATION:Bradenham Green
+SUMMARY:Bradenham Under 17 vs Thetford Town Under 17
+LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
 UID:match-7415716@play-cricket.com
-DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1
+URL:https://play-cricket.com/website/results/7415716
+DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415716
+GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T180000
 DTEND:20260629T203000
-SUMMARY:Under 17 vs Under 17
-LOCATION:Bradenham Green
+SUMMARY:Bradenham Under 17 vs Rocklands Under 17
+LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
 UID:match-7415715@play-cricket.com
-DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1
+URL:https://play-cricket.com/website/results/7415715
+DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415715
+GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260707T180000
 DTEND:20260707T203000
-SUMMARY:Under 17 vs Under 17
-LOCATION:Highfield Lawn
+SUMMARY:Fakenham Under 17 vs Bradenham Under 17
+LOCATION:Highfield Lawn (52.83666059999999, 0.8456838)
 UID:match-7415722@play-cricket.com
-DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1
+URL:https://play-cricket.com/website/results/7415722
+DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415722
+GEO:52.83666059999999;0.8456838
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260720T180000
 DTEND:20260720T203000
-SUMMARY:Under 17 vs Under 17
-LOCATION:Rocklands Playing Field Pavilion
+SUMMARY:Rocklands Under 17 vs Bradenham Under 17
+LOCATION:Rocklands Playing Field Pavilion (52.5344744, 0.9378519999999998)
 UID:match-7415732@play-cricket.com
-DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1
+URL:https://play-cricket.com/website/results/7415732
+DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415732
+GEO:52.5344744;0.9378519999999998
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260721T180000
 DTEND:20260721T203000
-SUMMARY:Under 17 vs Under 17
-LOCATION:Bradenham Green
+SUMMARY:Bradenham Under 17 vs Fakenham Under 17
+LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
 UID:match-7415713@play-cricket.com
-DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1
+URL:https://play-cricket.com/website/results/7415713
+DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415713
+GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260730T180000
 DTEND:20260730T203000
-SUMMARY:Under 17 vs Under 17
-LOCATION:Horry Panks Cricket Ground
+SUMMARY:Old Buckenham Under 17 vs Bradenham Under 17
+LOCATION:Horry Panks Cricket Ground (52.485041, 1.041062)
 UID:match-7415727@play-cricket.com
-DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1
+URL:https://play-cricket.com/website/results/7415727
+DESCRIPTION:Competition: Alan Kefford U17 Trophy - Group 1\nhttps://play-cricket.com/website/results/7415727
+GEO:52.485041;1.041062
 END:VEVENT
 END:VCALENDAR

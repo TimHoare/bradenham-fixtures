@@ -1,6 +1,6 @@
 import os
 import re
-from collections import defaultdict
+from collections import Counter, defaultdict
 from datetime import datetime, timedelta
 from pathlib import Path
 from urllib.parse import quote
@@ -15,8 +15,17 @@ SITE_ID = os.environ["SITE_ID"]
 CLUB_NAME = "Bradenham"
 SEASON = 2026
 CALENDARS_DIR = Path("calendars")
-# Set this to your GitHub Pages base URL after enabling Pages
 BASE_URL = os.environ.get("BASE_URL", "")
+
+# Manual overrides for grounds missing coordinates in the API
+GROUND_OVERRIDES = {
+    "UEA SportsPark": {"lat": "52.6245439", "lon": "1.2409256"},
+    "South Walsham Playing Field": {"lat": "52.6636", "lon": "1.5040"},
+}
+
+SENIOR_TEAMS = {"1st XI", "Friendly XI", "Sunday 1st XI", "Fixture Secretary XI"}
+SENIOR_DURATION = timedelta(hours=6)
+DEFAULT_DURATION = timedelta(hours=2, minutes=30)
 
 
 def fetch_fixtures():
@@ -28,6 +37,87 @@ def fetch_fixtures():
     return resp.json()["matches"]
 
 
+def fetch_club_home_ground(club_id):
+    """Fetch a club's most common home ground from their own fixtures.
+
+    Returns a dict with ground_name, ground_latitude, ground_longitude.
+    """
+    resp = requests.get(
+        "http://play-cricket.com/api/v2/matches.json",
+        params={"site_id": club_id, "season": SEASON, "api_token": API_TOKEN},
+    )
+    if not resp.ok:
+        return None
+    matches = resp.json().get("matches", [])
+    home_matches = [
+        m
+        for m in matches
+        if str(m.get("home_club_id")) == str(club_id) and m.get("ground_name")
+    ]
+    if not home_matches:
+        return None
+    # Find most common ground
+    most_common_name = Counter(m["ground_name"] for m in home_matches).most_common(1)[0][0]
+    # Get coordinates from a match at that ground
+    for m in home_matches:
+        if m["ground_name"] == most_common_name:
+            return {
+                "ground_name": most_common_name,
+                "ground_latitude": m.get("ground_latitude", ""),
+                "ground_longitude": m.get("ground_longitude", ""),
+            }
+    return None
+
+
+def build_ground_lookup(matches):
+    """Build a club_id -> ground info mapping from matches that have ground data."""
+    lookup = {}
+    for m in matches:
+        if m.get("ground_name") and m.get("home_club_id"):
+            cid = m["home_club_id"]
+            if cid not in lookup:
+                lookup[cid] = {
+                    "ground_name": m["ground_name"],
+                    "ground_latitude": m.get("ground_latitude", ""),
+                    "ground_longitude": m.get("ground_longitude", ""),
+                }
+    return lookup
+
+
+def fill_missing_grounds(matches, ground_lookup):
+    """Fill in missing ground names using the lookup, fetching from other clubs if needed."""
+    missing_club_ids = set()
+    for m in matches:
+        if not m.get("ground_name") and m.get("home_club_id"):
+            cid = m["home_club_id"]
+            if cid in ground_lookup:
+                m["ground_name"] = ground_lookup[cid]["ground_name"]
+                m["ground_latitude"] = ground_lookup[cid]["ground_latitude"]
+                m["ground_longitude"] = ground_lookup[cid]["ground_longitude"]
+            else:
+                missing_club_ids.add(cid)
+
+    # Fetch grounds for clubs we couldn't resolve locally
+    for cid in missing_club_ids:
+        ground = fetch_club_home_ground(cid)
+        if ground:
+            ground_lookup[cid] = ground
+
+    # Second pass with updated lookup
+    still_missing = 0
+    for m in matches:
+        if not m.get("ground_name") and m.get("home_club_id"):
+            cid = m["home_club_id"]
+            if cid in ground_lookup:
+                m["ground_name"] = ground_lookup[cid]["ground_name"]
+                m["ground_latitude"] = ground_lookup[cid]["ground_latitude"]
+                m["ground_longitude"] = ground_lookup[cid]["ground_longitude"]
+            else:
+                still_missing += 1
+
+    return still_missing
+
+
 def group_by_team(matches):
     teams = defaultdict(list)
     for match in matches:
@@ -36,11 +126,6 @@ def group_by_team(matches):
         elif str(match.get("away_club_id")) == SITE_ID:
             teams[match.get("away_team_name", "Unknown")].append(match)
     return dict(teams)
-
-
-SENIOR_TEAMS = {"1st XI", "Friendly XI", "Sunday 1st XI", "Fixture Secretary XI"}
-SENIOR_DURATION = timedelta(hours=6)
-DEFAULT_DURATION = timedelta(hours=2, minutes=30)
 
 
 def team_slug(team_name):
@@ -55,12 +140,48 @@ def match_duration(match):
     return DEFAULT_DURATION
 
 
+def match_summary(match):
+    """Build a clear summary like 'Bradenham 1st XI vs Dereham 2nd XI'."""
+    home_club = match.get("home_club_name", "").replace(" CC, Norfolk", "").replace(" CC", "")
+    away_club = match.get("away_club_name", "").replace(" CC, Norfolk", "").replace(" CC", "")
+    home_team = match.get("home_team_name", "Unknown")
+    away_team = match.get("away_team_name", "Unknown")
+    return f"{home_club} {home_team} vs {away_club} {away_team}"
+
+
+def match_url(match):
+    match_id = match.get("id", "")
+    return f"https://play-cricket.com/website/results/{match_id}"
+
+
+def match_coords(match):
+    """Return (lat, lon) for a match, using API data or manual overrides."""
+    ground = match.get("ground_name", "")
+    lat = match.get("ground_latitude", "")
+    lon = match.get("ground_longitude", "")
+    if not lat or not lon:
+        override = GROUND_OVERRIDES.get(ground)
+        if override:
+            lat, lon = override["lat"], override["lon"]
+    return lat, lon
+
+
+def match_location(match):
+    """Build a location string that Google Calendar can map.
+
+    Uses 'Ground Name (lat, lon)' which Google resolves to a map pin.
+    Falls back to ground name alone if no coordinates are available.
+    """
+    ground = match.get("ground_name", "")
+    lat, lon = match_coords(match)
+    if lat and lon:
+        return f"{ground} ({lat}, {lon})" if ground else f"{lat}, {lon}"
+    return ground
+
+
 def make_ical_event(match):
     match_date = match.get("match_date", "")
     match_time = match.get("match_time", "")
-    home = match.get("home_team_name", "Unknown")
-    away = match.get("away_team_name", "Unknown")
-    ground = match.get("ground_name", "")
     match_id = match.get("id", "0")
     duration = match_duration(match)
 
@@ -83,8 +204,14 @@ def make_ical_event(match):
         dtstart = f"DTSTART;VALUE=DATE:{dt.strftime('%Y%m%d')}"
         dtend = None
 
-    summary = f"{home} vs {away}"
+    summary = match_summary(match)
+    location = match_location(match)
+    competition = match.get("competition_name", "")
+    url = match_url(match)
+    description = f"Competition: {competition}\\n{url}" if competition else url
     uid = f"match-{match_id}@play-cricket.com"
+
+    lat, lon = match_coords(match)
 
     lines = [
         "BEGIN:VEVENT",
@@ -94,11 +221,14 @@ def make_ical_event(match):
         lines.append(dtend)
     lines += [
         f"SUMMARY:{summary}",
-        f"LOCATION:{ground}",
+        f"LOCATION:{location}",
         f"UID:{uid}",
-        f"DESCRIPTION:Competition: {match.get('competition_name', '')}",
-        "END:VEVENT",
+        f"URL:{url}",
+        f"DESCRIPTION:{description}",
     ]
+    if lat and lon:
+        lines.append(f"GEO:{lat};{lon}")
+    lines.append("END:VEVENT")
     return "\n".join(lines)
 
 
@@ -334,6 +464,13 @@ def main():
     print(f"Fetching {CLUB_NAME} fixtures for {SEASON}...")
     matches = fetch_fixtures()
     print(f"Found {len(matches)} matches")
+
+    # Fill in missing grounds
+    ground_lookup = build_ground_lookup(matches)
+    no_ground_before = sum(1 for m in matches if not m.get("ground_name"))
+    print(f"\nMatches missing ground: {no_ground_before}")
+    still_missing = fill_missing_grounds(matches, ground_lookup)
+    print(f"Resolved: {no_ground_before - still_missing}, still missing: {still_missing}")
 
     teams = group_by_team(matches)
     if not teams:

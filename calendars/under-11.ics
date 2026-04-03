@@ -7,65 +7,81 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20260430T120000
 DTEND:20260430T143000
-SUMMARY:Under 11 vs Under 11
-LOCATION:
+SUMMARY:Bradenham Under 11 vs Hingham Under 11
+LOCATION:UEA SportsPark (52.6245439, 1.2409256)
 UID:match-7602450@play-cricket.com
-DESCRIPTION:Competition: U11 Tier 2 - Group 4
+URL:https://play-cricket.com/website/results/7602450
+DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7602450
+GEO:52.6245439;1.2409256
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T120000
 DTEND:20260430T143000
-SUMMARY:Under 11 vs Under 11
-LOCATION:
+SUMMARY:Hingham Under 11 vs Bradenham Under 11
+LOCATION:Watton Road Playing Fields (52.5800942, 0.9659996000000001)
 UID:match-7602454@play-cricket.com
-DESCRIPTION:Competition: U11 Tier 2 - Group 4
+URL:https://play-cricket.com/website/results/7602454
+DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7602454
+GEO:52.5800942;0.9659996000000001
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260505T180000
 DTEND:20260505T203000
-SUMMARY:Under 11 vs Under 11
-LOCATION:Bradenham Green
+SUMMARY:Bradenham Under 11 vs Dereham Under 11
+LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
 UID:match-7416022@play-cricket.com
-DESCRIPTION:Competition: U11 Tier 2 - Group 4
+URL:https://play-cricket.com/website/results/7416022
+DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416022
+GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T180000
 DTEND:20260513T203000
-SUMMARY:Under 11 vs Under 11
-LOCATION:Great Witchingham
+SUMMARY:Great Witchingham Under 11 vs Bradenham Under 11
+LOCATION:Great Witchingham (52.7212219, 1.094211)
 UID:match-7416031@play-cricket.com
-DESCRIPTION:Competition: U11 Tier 2 - Group 4
+URL:https://play-cricket.com/website/results/7416031
+DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416031
+GEO:52.7212219;1.094211
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260521T180000
 DTEND:20260521T203000
-SUMMARY:U11 Fire vs Under 11
-LOCATION:Great Melton Cricket Club
+SUMMARY:Great Melton U11 Fire vs Bradenham Under 11
+LOCATION:Great Melton Cricket Club (52.6163701, 1.1513756)
 UID:match-7416028@play-cricket.com
-DESCRIPTION:Competition: U11 Tier 2 - Group 4
+URL:https://play-cricket.com/website/results/7416028
+DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416028
+GEO:52.6163701;1.1513756
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T180000
 DTEND:20260617T203000
-SUMMARY:Under 11 vs Under 11
-LOCATION:Bradenham Green
+SUMMARY:Bradenham Under 11 vs Great Witchingham Under 11
+LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
 UID:match-7416024@play-cricket.com
-DESCRIPTION:Competition: U11 Tier 2 - Group 4
+URL:https://play-cricket.com/website/results/7416024
+DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416024
+GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260715T180000
 DTEND:20260715T203000
-SUMMARY:Under 11 vs U11 Fire
-LOCATION:Bradenham Green
+SUMMARY:Bradenham Under 11 vs Great Melton U11 Fire
+LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
 UID:match-7416023@play-cricket.com
-DESCRIPTION:Competition: U11 Tier 2 - Group 4
+URL:https://play-cricket.com/website/results/7416023
+DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416023
+GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260806T180000
 DTEND:20260806T203000
-SUMMARY:Under 11 vs Under 11
-LOCATION:Dereham Cricket Club
+SUMMARY:Dereham Under 11 vs Bradenham Under 11
+LOCATION:Dereham Cricket Club (52.679421, 0.9526868000000001)
 UID:match-7416025@play-cricket.com
-DESCRIPTION:Competition: U11 Tier 2 - Group 4
+URL:https://play-cricket.com/website/results/7416025
+DESCRIPTION:Competition: U11 Tier 2 - Group 4\nhttps://play-cricket.com/website/results/7416025
+GEO:52.679421;0.9526868000000001
 END:VEVENT
 END:VCALENDAR

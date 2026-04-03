@@ -7,9 +7,11 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DTSTART:20260712T103000
 DTEND:20260712T163000
-SUMMARY:U13 Girls Softball vs Fixture Secretary XI
-LOCATION:Bradenham Green
+SUMMARY:Bradenham U13 Girls Softball vs Bradenham Fixture Secretary XI
+LOCATION:Bradenham Green (52.63933859999999, 0.8491660999999999)
 UID:match-7581672@play-cricket.com
-DESCRIPTION:Competition: 
+URL:https://play-cricket.com/website/results/7581672
+DESCRIPTION:https://play-cricket.com/website/results/7581672
+GEO:52.63933859999999;0.8491660999999999
 END:VEVENT
 END:VCALENDAR
